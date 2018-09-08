@@ -1,0 +1,93 @@
+{
+  "project_info": {
+    "project_number": "111715963266",
+    "firebase_url": "https://muzo-3e138.firebaseio.com",
+    "project_id": "muzo-3e138",
+    "storage_bucket": "muzo-3e138.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:111715963266:android:cd85e875f1d9c966",
+        "android_client_info": {
+          "package_name": "com.muzo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "111715963266-aesl8fk5lgddvhclsaju3pfup2kstfsh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.muzo",
+            "certificate_hash": "c52cb6edbbdae28c8b4a11301285638c818a2255"
+          }
+        },
+        {
+          "client_id": "111715963266-vnrmu4jd8ks25sp3jgi2rche075bc8ro.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDi6oOWRhSWIkw5BgERgUK6H_0WHrcY-4k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "111715963266-vnrmu4jd8ks25sp3jgi2rche075bc8ro.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "111715963266-p6ee3q30h6m1ck08a9df1f6tqqef4qaa.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.muzo"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:111715963266:android:02bac5378a9994bf",
+        "android_client_info": {
+          "package_name": "com.quiz.arctic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "111715963266-vnrmu4jd8ks25sp3jgi2rche075bc8ro.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDi6oOWRhSWIkw5BgERgUK6H_0WHrcY-4k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
